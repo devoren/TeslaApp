@@ -1,0 +1,5 @@
+<resources>
+       <style name="AppTheme" parent="Theme.ReactNative.AppCompat.Light.NoActionBar.FullScreen">
+           <item name="colorPrimaryDark">@color/status_bar_color</item>
+       </style>
+   </resources>
